@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://Pallabpal.io)
-![Uploading wave.gif…]() <h1 align="center">Hi,I'm Pallab Pal</h1> 
+<h1 align="center"> ![Uploading wave.gif…]() Hi,I'm Pallab Pal</h1> 
 
 <h3 align="center">A passionate learner from India, dedicated to mastering coding, web development, and machine learning</h3>
 <img align="left" alt="coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
